@@ -12,9 +12,16 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 Table of Contents
 
-Introduction
-Building with Functional MVC
-The Lay of the Land
+1. Introducting Phoenix
+[x] Fast
+[x] Concurrent
+[x] Beautiful Code
+[x] Interactive
+[x] Reliable
+[x] Is This Book for You?
+[x] Online Resources
+
+2. The Lay of the Land
 [ ] Simple Functions
 [ ] Installing Your Development Environment
 [ ] Creating a Throwaway Project
@@ -22,7 +29,7 @@ The Lay of the Land
 [ ] Going Deeper: The Request Pipeline
 [ ] Wrapping Up
 
-Controllers, Views, and Templates
+3. Controllers, Views, and Templates
 [ ] The Controller
 [ ] Creating Some Users
 [ ] Building a Controller
@@ -31,7 +38,7 @@ Controllers, Views, and Templates
 [ ] Showing a User
 [ ] Wrapping Up
 
-Ecto and Changesets
+4. Ecto and Changesets
 [ ] Understanding Ecto
 [ ] Defining the User Schema and Migration
 [ ] Using the Repository to Add Data
@@ -39,7 +46,7 @@ Ecto and Changesets
 [ ] Creating Resources
 [ ] Wrapping Up
 
-Authenticating Users
+5. Authenticating Users
 [ ] Preparing for Authentication
 [ ] Managing Registration Changesets
 [ ] Creating Users
@@ -49,19 +56,19 @@ Authenticating Users
 [ ] Presenting User Account Links
 [ ] Wrapping Up
 
-Generators and Relationships
+6. Generators and Relationships
 [ ] Using Generators
 [ ] Building Relationships
 [ ] Managing Related Data
 [ ] Wrapping Up
 
-Ecto Queries and Constraints excerpt
+7. Ecto Queries and Constraints excerpt
 [ ] Adding Categories
 [ ] Diving Deeper into Ecto Queries
 [ ] Constraints
 [ ] Wrapping Up
 
-Testing MVC
+8. Testing MVC
 [ ] Understanding ExUnit
 [ ] Using Mix to Run Phoenix Tests
 [ ] Integration Tests
@@ -70,14 +77,14 @@ Testing MVC
 [ ] Splitting Side Effects in Model Tests
 [ ] Wrapping Up
 
-Writing Interactive and Maintainable Applications
+9. Writing Interactive and Maintainable Applications
 [ ] Watching Videos
 [ ] Watching Videos
 [ ] Adding JavaScript
 [ ] Creating Slugs
 [ ] Wrapping Up
 
-Using Channels
+10. Using Channels
 [ ] The Channel
 [ ] Phoenix Clients with ES6
 [ ] Preparing Our Server for the Channel
@@ -88,7 +95,7 @@ Using Channels
 [ ] Handling Disconnects
 [ ] Wrapping Up
 
-OTP
+11. OTP
 [ ] Managing State with Processes
 [ ] Building GenServers for OTP
 [ ] Supervision Strategies
@@ -96,12 +103,12 @@ OTP
 [ ] Building the Wolfram Info System
 [ ] Wrapping Up
 
-Observer and Umbrellas
+12. Observer and Umbrellas
 [ ] Introspecting with Observer
 [ ] Using Umbrellas
 [ ] Wrapping Up
 
-Testing Channels and OTP
+13. Testing Channels and OTP
 [ ] Testing the Information System
 [ ] Isolating Wolfram
 [ ] Adding Tests to Channels
@@ -109,7 +116,7 @@ Testing Channels and OTP
 [ ] Communicating with a Test Channel
 [ ] Wrapping Up
 
-What’s Next?
+14. What’s Next?
 [ ] Other Interesting Features
 [ ] What’s Coming Next
 [ ] Good Luck
