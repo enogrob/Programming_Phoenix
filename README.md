@@ -22,10 +22,10 @@ Table of Contents
 [x] Online Resources
 
 2. The Lay of the Land
-[x] Simple Functions
-[x] Installing Your Development Environment
-[x] Creating a Throwaway Project
-[x] Building a Feature excerpt
+[ ] Simple Functions
+[ ] Installing Your Development Environment
+[ ] Creating a Throwaway Project
+[ ] Building a Feature excerpt
 [ ] Going Deeper: The Request Pipeline
 [ ] Wrapping Up
 
