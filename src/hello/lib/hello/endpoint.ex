@@ -36,7 +36,7 @@ defmodule Hello.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_hello_key",
-    signing_salt: "yOvk6T/O"
+    signing_salt: "ORl3wlh+"
 
   plug Hello.Router
 end
